@@ -1,0 +1,15 @@
+d:\C#\efef\bin\Debug\net6.0\efef.exe
+d:\C#\efef\bin\Debug\net6.0\efef.deps.json
+d:\C#\efef\bin\Debug\net6.0\efef.runtimeconfig.json
+d:\C#\efef\bin\Debug\net6.0\efef.dll
+d:\C#\efef\bin\Debug\net6.0\efef.pdb
+d:\C#\efef\obj\Debug\net6.0\efef.csproj.AssemblyReference.cache
+d:\C#\efef\obj\Debug\net6.0\efef.GeneratedMSBuildEditorConfig.editorconfig
+d:\C#\efef\obj\Debug\net6.0\efef.AssemblyInfoInputs.cache
+d:\C#\efef\obj\Debug\net6.0\efef.AssemblyInfo.cs
+d:\C#\efef\obj\Debug\net6.0\efef.csproj.CoreCompileInputs.cache
+d:\C#\efef\obj\Debug\net6.0\efef.dll
+d:\C#\efef\obj\Debug\net6.0\refint\efef.dll
+d:\C#\efef\obj\Debug\net6.0\efef.pdb
+d:\C#\efef\obj\Debug\net6.0\efef.genruntimeconfig.cache
+d:\C#\efef\obj\Debug\net6.0\ref\efef.dll
